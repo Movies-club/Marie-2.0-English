@@ -20,8 +20,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 
 hello {}, Iam a bot and my name is {}😎.
-
-im a group manager bot maintained by  [this person](t.me/roHiTh_rio).
+im a group manager bot maintained by  [this person](t.me/Bot_clones).
 No use in messaging me here am available on @Botclones
 
 **If you want any bot like this i can made for u but requires money.**
