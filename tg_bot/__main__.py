@@ -21,11 +21,10 @@ PM_START_TEXT = """
 
 hello {}, Iam a bot and my name is {}😎.
 
-im a group manager bot maintained by  [this person](tg://user?id={}).
+im a group manager bot maintained by  [this person](t.me/roHiTh_rio).
+No use in messaging me here am available on @Botclones
 
-No use in messaging me here am available on @BTECHTHOPULU
-
-**U r not able to do any thing in this so be silent.**
+**If you want any bot like this i can made for u but requires money.**
 
 """
 
